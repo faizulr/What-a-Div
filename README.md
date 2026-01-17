@@ -34,7 +34,9 @@ python3 -m http.server 8000
 ```
 
 ## Published on GitHub Pages
-This repository is published using GitHub Pages. The game is available at: `https://faizulr.github.io/What-a-Div/`
+This repository is published using GitHub Pages. The game is available at: https://faizulr.github.io/What-a-Div/
+
+Play the game and see how it works here: https://faizulr.github.io/What-a-Div/
 
 If you make changes, push to the `main` branch and Pages will update (may take a minute).
 
